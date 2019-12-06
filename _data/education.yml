@@ -1,9 +1,11 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Edinburgh Napier University
+  dates: Date Range (eg. 2017 - 2020)
+  qualification: BA Engineering
   quote: >
-    Short institution or course description (optional)
+    Computer systems and networks
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  My degree focuses on the design and evaluation of network systems hardware and software. 
+  The course covered general systems knowledge, networking of systems, security and cryptography, programming, project management and database systems, among other things. 
+  
