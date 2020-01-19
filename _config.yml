@@ -32,12 +32,14 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
+# more_title: Skills and certificates
+Skills and certificates: | # this will include new lines to allow paragraphs
 
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  I hold these certificates:
+    - Apple ACSP 10.14
+    - Jamf certified tech (Jamf 200)
+    - Cisco Meraki Network Associate (CMNA)
+    - Cambridge certificate in advanced English
 
 # Footer
 footer_show_references: true
