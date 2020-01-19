@@ -1,10 +1,10 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Kullander i Sverige AB
+  link: https://www.kullander.se
+  job_title: Consuntant and support
+  dates: May 2016 - present
   quote: >
-   Short description of the company (optional)
+   Managed services provider and consultancy focusing on the Apple ecosystem.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    My role at Kullander has evolved over the years, starting with providing support and education to home users and growing into working exclusively with our corporate customers. In my current role, I provide second and third line support to corporate end-users, help automate our business procedures and systems with APIs and python scripts, support colleagues in developing scripts and help manage our internal systems. I've got experience in setting up and working with Office 365, VMware ESXi, Freenas and Truenas, Jamf Pro, Cisco Meraki and Code42 Crashplan, among other things.
