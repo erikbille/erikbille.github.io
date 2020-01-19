@@ -32,9 +32,8 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: Skills and certificates
-Skills and certificates: | # this will include new lines to allow paragraphs
-
+more_title: Skills and certificates
+more_content: | 
   I hold these certificates:
     - Apple ACSP 10.14
     - Jamf certified tech (Jamf 200)

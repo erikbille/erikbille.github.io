@@ -7,4 +7,10 @@
   quote: >
    Managed services provider and consultancy focusing on the Apple ecosystem.
   description: | # this will include new lines to allow paragraphs
-    My role at Kullander has evolved over the years, starting with providing support and education to home users and growing into working exclusively with our corporate customers. In my current role, I provide second and third line support to corporate end-users, help automate our business procedures and systems with APIs and python scripts, support colleagues in developing scripts and help manage our internal systems. I've got experience in setting up and working with Office 365, VMware ESXi, Freenas and Truenas, Jamf Pro, Cisco Meraki and Code42 Crashplan, among other things.
+    My role at Kullander has evolved over the years, starting with providing support and education to home users and growing into working exclusively with our corporate customers.
+
+    Initially, I worked full time for two years in Sweden in the office and on-site at our clients. I later had the opportunity to scale my role down to a part-time commitment alongside university, exclusively working remotely.
+
+    In my current role, I provide second and third line support to corporate end-users, help automate our business procedures and systems with APIs and <mark>Python</mark> scripting, support colleagues in developing our services offering and help manage our internal systems.
+    I've got experience in setting up and working with <mark>Office 365</mark>, <mark>VMware ESXi</mark>, <mark>Freenas and Truenas</mark>, <mark>Jamf Pro</mark>, <mark>Cisco Meraki</mark> and <mark>Code42 Crashplan</mark>, among other things.
+    As my university course is heavily focuced on <mark>networking</mark>, I also aid in designing and supporting our network deployments at clients offices. 

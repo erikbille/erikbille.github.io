@@ -1,9 +1,11 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Ellibview.se and Leadcentio.se
+  link: https://ellibview.se/
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    Short overview of the project (optional)
+    Hosting and maintenance of two websites
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    When my dad started his own business, I had the opportunity to help him set up web hosting and email.
+    Rather than going straight to Squarespace or similar vendors, I decided to set it up myself and learn some things along the way.
+    I'm now maintaining a <mark>Ubuntu</mark> hosted <mark>LAMP-stack</mark> based WordPress installation, routing traffic to it via <mark>Cloudflare</mark>, striving to make it as secure and fast as possible. 
