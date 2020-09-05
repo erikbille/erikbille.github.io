@@ -1,11 +1,11 @@
 # Project template
 - layout: top-middle
-  name: Ellibview.se and Leadcentio.se
-  link: https://ellibview.se/
+  name: Leadcentio.se
+  link: https://leadcentio.se/
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     Hosting and maintenance of two websites
   description: | # this will include new lines to allow paragraphs
     When my dad started his own business, I had the opportunity to help him set up web hosting and email.
     Rather than going straight to Squarespace or similar vendors, I decided to set it up myself and learn some things along the way.
-    I'm now maintaining a <mark>Ubuntu</mark> hosted <mark>LAMP-stack</mark> based WordPress installation, routing traffic to it via <mark>Cloudflare</mark>, striving to make it as secure and fast as possible. 
+    I'm now maintaining a <mark>Ubuntu</mark> hosted <mark>LAMP-stack</mark> based WordPress installation, routing traffic to it via <mark>Cloudflare</mark>, striving to make it as secure and fast as possible.
