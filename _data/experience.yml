@@ -1,9 +1,18 @@
 # Experience template
 - layout: left
+  company: Monzo Bank
+  link: https://www.monzo.com
+  job_title: TechOps
+  dates: November 2020 - present
+  quote: >
+   Helping in making money work for everyone.
+  description: | # this will include new lines to allow paragraphs
+    As part of the TechOps team at Monzo I help fellow Monzonaut in building the bank of the future. 
+- layout: left
   company: Kullander i Sverige AB
   link: https://www.kullander.se
   job_title: Consuntant and support
-  dates: May 2015 - present
+  dates: May 2015 - November 2020
   quote: >
    Managed services provider and consultancy focusing on the Apple ecosystem.
   description: | # this will include new lines to allow paragraphs
